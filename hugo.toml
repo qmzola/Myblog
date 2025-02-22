@@ -1,0 +1,8 @@
+[hb]
+  [hb.blog]
+    [hb.blog.home]
+      pinned_posts_position = 'list'
+
+baseURL = 'https://blog.luol.men/'
+languageCode = 'zh-cn'
+title = '洛绫华的小站'
